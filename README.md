@@ -1,6 +1,8 @@
-# exercise_three
+# BESQUARE - Mobile Development Exercise 3
 
-A new Flutter project.
+A flutter app with a sign up screen. 
+User will be urged to change input if input is invalid.
+Upon sign up, a snackbar with success message would pop up.
 
 ## Getting Started
 
